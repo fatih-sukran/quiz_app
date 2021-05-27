@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "754906150977",
+    "project_id": "quiz-app-fth2181",
+    "storage_bucket": "quiz-app-fth2181.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754906150977:android:111e0a61944f238b582ec0",
+        "android_client_info": {
+          "package_name": "com.fatih.quiz_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754906150977-scfid59ae9fakjg8nadighueq1c71v3t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fatih.quiz_app",
+            "certificate_hash": "246ba9c3381a359431b73959f16d187b9ca196b9"
+          }
+        },
+        {
+          "client_id": "754906150977-89jf70sqn7e4lf37gfuh235imr0hc4lm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEqZmw77BF-Fna-VIM7ZYGRH1CCtXML3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754906150977-89jf70sqn7e4lf37gfuh235imr0hc4lm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

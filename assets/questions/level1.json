@@ -1,0 +1,83 @@
+[
+  {
+    "soru": "Fatih Sultan Mehmet’in babası kimdir?",
+    "a": "Yıldırım Beyazıt",
+    "b": "II. Murat",
+    "c": "I. Mehmet",
+    "d": "Osman Gazi",
+    "cevap": "b",
+    "secilen": ""
+  },
+  {
+    "soru": "Hangisi periyodik tabloda bulunan bir element değildir?",
+    "a": "Oksijen",
+    "b": "su",
+    "c": "Hidrojen",
+    "d": "Azot",
+    "cevap": "b",
+    "secilen": ""
+  },
+  {
+    "soru": "Galatasaray hangi yıl UEFA kupasını almıştır?",
+    "a": "1999",
+    "b": "2000",
+    "c": "2001",
+    "d": "2002",
+    "cevap": "b",
+    "secilen": ""
+  },
+  {
+    "soru": "Kıbrıs Barış harekatı hangi tarihte gerçekleşmiştir?",
+    "a": "1972",
+    "b": "1974",
+    "c": "1982",
+    "d": "1984",
+    "cevap": "b",
+    "secilen": ""
+  },
+  {
+    "soru": "Cristiano Ronaldo daha önce hangi futbol takımında oynamıştır?",
+    "a": "Bayern Munich",
+    "b": "Manchester United",
+    "c": "Liverpool",
+    "d": "Ajax",
+    "cevap": "b",
+    "secilen": ""
+  },
+  {
+    "soru": "Fransız İhtilali kaç yılında gerçekleşmiştir?",
+    "a": "1779-1789",
+    "b": "1789-1799",
+    "c": "1768-1787",
+    "d": "1876-1889",
+    "cevap": "b",
+    "secilen": ""
+  },
+  {
+    "soru": "Kuyucaklı Yusuf adlı eser kime aittir?",
+    "a": "Yusuf Atılgan",
+    "b": "Sabahattin Ali",
+    "c": "Yaşar Kemal",
+    "d": "Namık Kemal",
+    "cevap": "b",
+    "secilen": ""
+  },
+  {
+    "soru": "Osmanlı’da Lale devri hangi padişah döneminde yaşamıştır?",
+    "a": "IV. Murat",
+    "b": "III. Ahmet",
+    "c": "III. Selim",
+    "d": "II. Abdülhamid",
+    "cevap": "b",
+    "secilen": ""
+  },
+  {
+    "soru": "Türk ordusunun ve Türk Kara Kuvvetlerinin kuruluşu hangi yıl kabul edilir?",
+    "a": "1923",
+    "b": "M.Ö 209",
+    "c": "1071",
+    "d": "1919",
+    "cevap": "b",
+    "secilen": ""
+  }
+]
