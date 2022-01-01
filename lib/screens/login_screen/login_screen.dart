@@ -234,7 +234,7 @@ Widget _home({
                     },
                   ),
                   Spacer(),
-                  FlatButton(
+                  TextButton(
                     onPressed: () {
                       Navigator.pushNamed(context, SignUpScreen.route);
                     },

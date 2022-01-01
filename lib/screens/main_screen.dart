@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:quiz_app/auth/firabase_login.dart';
 import 'package:quiz_app/components/button.dart';
+import 'package:quiz_app/screens/quiz_screen.dart';
 import 'package:quiz_app/screens/welcome_screen/welcome_screen.dart';
 
 import '../constansts.dart';
@@ -29,11 +30,10 @@ class _MainScreenState extends State<MainScreen> {
           ),
         ),
         actions: [
-          RaisedButton(
+          ElevatedButton(
             onPressed: () {
               FirebaseHandler.auth.signOut();
             },
-            color: Colors.red,
             child: Text(
               "Çıkış Yap",
               style: TextStyle(color: Colors.white),
@@ -62,7 +62,7 @@ class _MainScreenState extends State<MainScreen> {
                     ),
                     color: Colors.green,
                     onTap: () =>
-                        Navigator.pushReplacementNamed(context, "/quizScreen"),
+                        Navigator.pushNamed(context, QuizScreen.route),
                   ),
                   Button(
                     text: Text(

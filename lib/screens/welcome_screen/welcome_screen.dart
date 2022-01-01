@@ -52,6 +52,7 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
               child: Column(
                 children: [
                   RoundedLoadingButton(
+                    controller: RoundedLoadingButtonController(),
                     animateOnTap: false,
                     color: MyTheme.secondaryColor,
                     child: Text(
@@ -67,6 +68,7 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
                   ),
                   SizedBox(height: 16.0),
                   RoundedLoadingButton(
+                    controller: RoundedLoadingButtonController(),
                     color: Colors.black,
                     child: Container(
                       child: Row(
